@@ -1,4 +1,5 @@
 # Ignore carpets
+CSV_Files/
 tareas/
 .idea/
 
